@@ -1,4 +1,4 @@
-My name is Alexey Beshenov.
+👋 My name is Alexey Beshenov.
 
 I am interested in mathematics, in particular number theory.
 

@@ -6,4 +6,5 @@
 
 ✉️ Email: cadadr@gmail.com
 
-Here you can find various repositories with my mathematical and expository work.
+Here you can find various repositories with my mathematical and expository work,
+and occasional toy projects.
